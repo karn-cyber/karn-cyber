@@ -104,6 +104,7 @@
 - **Max Rank:** ![Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=Neelanshu_karn&label=Max%20Rank&query=$.result[0].maxRank&color=red)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # Statistics
 
 <div align="center">
