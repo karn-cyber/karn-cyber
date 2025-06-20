@@ -29,9 +29,7 @@
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
 - 👋 I'm Neelanshu, a first-year BTech CSE-AI student passionate about building in space, cybersecurity & AI.
-- 🚀 Leading satellite prototype development as Project Manager and System Engineer at **SAST**.
-- 🧠 Finalist in **Smart India Hackathon**; worked on DDoS protection using AI, load balancers & cloud architecture.
-- 💼 Software Engineering Intern at **CodSoft** (Created 3 projects).
+- 🚀 President at **Society for Aerospace and Space Technology**.
 - 📫 Reach me at: neelanshu.2024@nst.rishihood.edu.in
 
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="38"> Languages and Tools</h1>
@@ -87,6 +85,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn-cyber&layout=compact&theme=highcontrast" alt="Top Languages" />
 
 <br><br><br><br><br><br>
+<br>
 
 # 📊 LeetCode Stats
 
@@ -125,6 +124,6 @@
 [![]([https://holopin.me/karncyber](https://www.holopin.io/@karncyber#badges))](https://holopin.io/@karncyber)
 
 <p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
-<a href="https://www.holopin.io/@karncyber?verified=true#badges">My Holopin Badges</a>
+<a style="text-align:center" href="https://www.holopin.io/@karncyber?verified=true#badges">My Holopin Badges</a>
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
