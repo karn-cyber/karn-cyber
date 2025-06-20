@@ -125,5 +125,6 @@
 [![]([https://holopin.me/karncyber](https://www.holopin.io/@karncyber#badges))](https://holopin.io/@karncyber)
 
 <p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
+<a href="https://www.holopin.io/@karncyber?verified=true#badges">My Holopin Badges</a>
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
