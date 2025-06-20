@@ -1,67 +1,119 @@
-<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="www.linkedin.com/in/neelanshu-karn-05146130a/" target="_blank">Neelanshu Karn</a></h1>
+<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/neelanshu-karn-05146130a/" target="_blank">Neelanshu Karn</a></h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=CS-AI'28+Undergrad;Web+Developer;Open-Source+Contributor;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=BTech+CSE-AI'27+Undergrad;Open-Source+Contributor;SpaceTech+and+Cybersecurity+Enthusiast;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 </div>
 
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
 <p align="center">
-<a href="www.linkedin.com/in/neelanshu-karn-05146130a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
+<a href="https://www.linkedin.com/in/neelanshu-karn-05146130a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
 <a href="https://www.instagram.com/neelanshu_karn/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
+<a href="https://www.hackerrank.com/profile/karnneelanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karnneelanshu" height="45" width="50" /></a>
+<a href="https://www.codechef.com/users/swift_idea_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="swift_idea_69" height="45" width="50" /></a>
+<br><br>
+<a href="https://leetcode.com/u/neelanshukarn/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode Badge"/></a>
 </p>
 
-<!-- Live Viewer Count -->
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=karn-cyber&style=for-the-badge" alt="Neelanshu Karn's Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=karn-cyber&style=for-the-badge" alt="karn-cyber's Profile Views" />
 </p>
 
-<!-- Flowing Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-
-<!-- Live Image -->
 <img align='right' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="250" height="350" />
-
 
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
-- First-year BTech student in CS-AI with a passion for problem-solving and innovation
-- Frontend Developer focused on building intuitive and engaging user interfaces
-- Exploring Data Structures and Algorithms (DSA) in Python and C++ to deepen my problem-solving skills
-- 📫 Reach me at: karnneelanshu@gmail.com
+- 👋 I'm Neelanshu, a first-year BTech CSE-AI student passionate about building in space, cybersecurity & AI.
+- 🚀 Leading satellite prototype development as Project Manager and System Engineer at **SAST**.
+- 🧠 Finalist in **Smart India Hackathon**; worked on DDoS protection using AI, load balancers & cloud architecture.
+- 💼 Software Engineering Intern at **CodSoft** (Created 3 projects).
+- 📫 Reach me at: neelanshu.2024@nst.rishihood.edu.in
 
-<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
+<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="38"> Languages and Tools</h1>
 
-<p align="left"> 
-<p align="left"> 
-<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.python.org/downloads/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://html.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/figma.svg" alt="figma" width="40" height="40"/></a>
-</p>
+<br>
 
-<!-- End Line -->
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Statistics </h1>
 
-
-
 <a href="https://github.com/karn-cyber/github-readme-stats">
-    <img width=100% src="https://github-profile-trophy.vercel.app/?username=karn-cyber&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=karn-cyber&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
 </a>
 
-
-<!-- gg -->
 <a href="https://github.com/karn-cyber/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=karn-cyber&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=karn-cyber&theme=bear&hide_border=true" width="45%"/>
 </a>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karn-cyber&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+<br>
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn-cyber&layout=compact&theme=highcontrast" alt="Top Languages" />
+
+<br><br><br><br><br><br>
+
+# 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/neelanshukarn?theme=dark&font=Roboto&ext=heatmap)
+
+<br> 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="1" />
+<br> 
+
+## Codeforces Stats
+- **Handle:** [Neelanshu_karn](https://codeforces.com/profile/Neelanshu_karn)
+- **Rating:** ![Current Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=Neelanshu_karn&label=Rating&query=$.result[0].rating&color=blue)
+- **Max Rating:** ![Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=Neelanshu_karn&label=Max%20Rating&query=$.result[0].maxRating&color=brightgreen)
+- **Rank:** ![Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=Neelanshu_karn&label=Rank&query=$.result[0].rank&color=yellow)
+- **Max Rank:** ![Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=Neelanshu_karn&label=Max%20Rank&query=$.result[0].maxRank&color=red)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
+
+<div align="center">
+    <a href="https://github.com/karn-cyber">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karn-cyber&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karn-cyber&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karn-cyber&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karn-cyber&theme=highcontrast" height="180em" />
+    </a>
+</div>
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<h1 align="left">🦖 Holopin</h1>
+
+[![](https://holopin.me/karncyber)](https://holopin.io/@karncyber)
+
+<p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
