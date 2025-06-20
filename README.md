@@ -112,7 +112,7 @@
 
 <h1 align="left">🦖 Holopin</h1>
 
-[![](https://holopin.me/karncyber)](https://holopin.io/@karncyber)
+[![]([https://holopin.me/karncyber](https://www.holopin.io/@karncyber#badges))](https://holopin.io/@karncyber)
 
 <p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
 
